@@ -1,2 +1,60 @@
 # Google App Engine generated folder
 appengine-generated/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Home | Military Roleplay Official</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Military Roleplay Official</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="media.html">Media & Art</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="welcome">
+      <h2>Welcome Soldier!</h2>
+      <p>Step into our immersive military RP community. Join missions, share media, and check out exclusive gear in our shop.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Military Roleplay Official</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shop | Military Roleplay Official</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Military Roleplay Official</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="shop.html">Shop</a></li>
+        <li><a href="media.html">Media & Art</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>Shop</h2>
+    <p>Coming soon: Custom uniforms, gear, in-game perks, and more!</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Military Roleplay Official</p>
+  </footer>
+</body>
+</html>
